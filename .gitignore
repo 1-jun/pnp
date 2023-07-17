@@ -1,0 +1,7 @@
+*.pth
+*.pt
+**/chexpert-labeler/
+**/extract-custom-labels-mimic/
+**/mimic-cardiac-device-labels/
+**/mimic-cxr-sections/
+devlog.txt
